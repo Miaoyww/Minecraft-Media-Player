@@ -18,7 +18,7 @@ A python script that can let you play the videos and show the images in Minecraf
 
 </div>
 
-**English** | [中文](https://github.com/Fallen-Breath/MCDReforged/blob/master/README_cn.md)
+**English** | [中文](https://github.com/Miaoywww/Minecraft-Media-Player/blob/main/README_cn.md)
 
 ## Download
 
