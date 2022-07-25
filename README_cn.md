@@ -19,7 +19,7 @@
 
 </div>
 
-[English](https://github.com/Fallen-Breath/MCDReforged/blob/master/README.md) | **中文**
+[English](https://github.com/Miaoywww/Minecraft-Media-Player/blob/main/README.md) | **中文**
 
 ## 下载
 
