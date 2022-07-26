@@ -55,6 +55,20 @@ python3 videos.py ./video.mp4
 
 运行之后在 `functions/` 中找到你的数据包, 应用你的数据包
 
+## 注意
+
+对于宽高过大的图片和视频我建议将其压缩再使用
+
+因为Minecraft的粒子数量是`有上限的`, 因此它不可能完整显示一个非常大的图片( 帧 )
+
+关于大体积数据包, 我自己反正是没有加载成功过, 若您的电脑比我的好上很多, 可以尝试一下
+
+我的电脑配置:
+
++ CPU: i5 9400F
++ RAM: DDR4 2400Mhz 8G
++ GPU: RX580 2048sp
+
 ## License
 
 Copyright Miaomiaoywww 2022. 
