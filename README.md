@@ -8,7 +8,7 @@
 ![minecraft-version](https://img.shields.io/badge/Minecraft-1.13%2B-red)
 ![license](https://img.shields.io/github/license/Miaoywww/Minecraft-Media-Player)
 
-A python script that can let you play the videos and show the images in Minecraft.
+A python script that can let you play the videos and display the images in Minecraft.
 
 `Datapack Theoretical Support 1.13+`
 
@@ -54,6 +54,20 @@ python3 videos.py ./video.mp4
 ```
 
 After running, find your datapack in `functions/`
+
+## Attention
+
+As for the big images or videos, i suggest to compress them before using
+
+Because there's a `limit` to the number of particles in Minecraft.So, Minecraft can not display a full image (frame)
+
+About the large datapacks, i never loaded it successfully anyway, if your computer is much better than mine, give it a try
+
+My computer configuration:
+
++ CPU: I5 9400F
++ RAM: DDR4 2400Mhz 8G
++ GPU: RX580 2048sp
 
 ## License
 
